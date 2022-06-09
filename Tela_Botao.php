@@ -24,8 +24,8 @@
 				<?php 
 				$dt =date('Y-m-d');
 				?>
-					<a href=""><button class="mx-4 col-2 btn btn-primary" type="submit">FRJ-RJ</button></a>
-					<a href=""><button class="mx-4 col-2 btn btn-primary" type="submit">FFA-SP</button></a>
+					<a href=""><button class="mx-4 col-2 btn btn-primary" type="submit">Dados</button></a>
+					<a href=""><button class="mx-4 col-2 btn btn-primary" type="submit">Dados</button></a>
 					<input class="mx-4 col-2 btn btn-primary" name="data" type="date" value="<?php echo $dt;?>"></input>
 					<input class="mx-4 col-2 btn btn-primary" type="submit" name="Entrar" value="Entrar"></input>
 				</div>
